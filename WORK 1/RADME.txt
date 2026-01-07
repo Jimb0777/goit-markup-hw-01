@@ -1,7 +1,0 @@
-<ul>
-      <li><img src="./img/photo_2026-01-06_19-43-41.jpg" alt="A beautiful scenery" />
-         <p>Marta</p>
-        </li>
-      <li><img src="./img/photo_2026-01-06_19-43-43.jpg" alt="Another beautiful scenery" /></li>
-      <li><img src="./img/photo_2026-01-06_19-43-52.jpg" alt="Yet another beautiful scenery" /></li>
-      <li><img src="./img/photo_2026-01-06_20-59-17.jpg" alt="Yet another beautiful scenery" /></li>
